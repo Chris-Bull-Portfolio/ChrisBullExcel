@@ -1,6 +1,6 @@
 <a href="https://github.com/Chris-Bull-Portfolio/ChrisBullPortfolio" target="_blank">Back to Main Page</a>
 
-# Excel Projects
+# <img src="https://github.com/user-attachments/assets/f117881f-eda9-429a-939f-69b8e987b94d" width="30" height="30" alt="Excel"/> Excel Projects
 This is work I completed using Excel in my Data Analysis Skills Bootcamp.
 
 ## Project 1 - Basic Functions and Conditional Formatting
